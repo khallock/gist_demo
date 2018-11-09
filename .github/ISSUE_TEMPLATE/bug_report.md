@@ -7,8 +7,10 @@ about: Create a report to help us improve
 **Describe the bug**
 A clear and concise description of what the bug is. Include any error messages.
 
-**To Reproduce**
-Provide a sample NCL script and any necessary data files. If applicable, provide any relevant graphical output that may help demonstrate the problem.
+**Provide the following:**
+ - a concise NCL script demonstrating the issue (remove unnecessary code)
+ - any necessary data files
+ - any relevant graphical output
 
 **Computing environment**
  - OS: [Linux, Mac, or Windows]
