@@ -16,7 +16,7 @@ A clear and concise description of what the bug is. Include any error messages.
  - OS: [Linux, Mac, or Windows]
  - OS version: [e.g. Ubuntu 16.04, MacOS 10.13.6, Windows 10]
  - NCL Version: [e.g. 6.5.0]
- - Installation method: [binary from NCAR website, conda, other package manager (apt, brew, macports)]
+ - Installation method: [binary from NCAR website, conda, other package manager (apt, brew, macports, yum), built from source]
 
 **Additional context**
 Add any other context about the problem here.
